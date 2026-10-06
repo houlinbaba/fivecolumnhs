@@ -1,0 +1,9 @@
+Package: com.alin.fivecolumnhs
+Name: FiveColumnHS
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: 主屏幕五列图标 (iOS 16 rootless)
+Maintainer: alin
+Author: alin
+Section: Tweaks
+Depends: mobilesubstrate
